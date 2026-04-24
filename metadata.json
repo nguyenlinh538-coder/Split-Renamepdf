@@ -1,0 +1,8 @@
+{
+  "name": "Tách file + Đổi tên file ĐMVT, QTSX, QTĐG, BCSPKPH ",
+  "description": "A specialized application for pharmaceutical GMP document header extraction using Gemini 3 Vision, specifically designed for document classification and renaming.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
